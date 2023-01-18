@@ -2,7 +2,7 @@
   <!-- 自定义的导航 -->
   <view class="nav-gation">
     <view class="nav-top" />
-    <view class="nav-height">云南省第一人民医院</view>
+    <view class="nav-height">xx省第一人民医院</view>
   </view>
   <view
     v-if="weather.length > 0"
